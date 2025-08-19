@@ -1,0 +1,45 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# PyCharm IDE
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+*.db
+*.sqlite3
+*.sqlite
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Matplotlib cache
+.matplotlib/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Your specific files
+workout.db
